@@ -1,0 +1,2 @@
+Name,Email,PasswordHash
+Super Admin,admin@university.edu,scrypt:32768:8:1$AU4wKHuyYfJzh8sc$a5708fbcfca92feff89db4144d4fc2a31bf3fe826777048f656fbc7c0c8bf66dd794c26adae47414df1fac187cfa26e1a2e28f07f1d82e2aa06226842ee5409b
